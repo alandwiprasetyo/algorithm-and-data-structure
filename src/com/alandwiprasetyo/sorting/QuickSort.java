@@ -1,4 +1,4 @@
-package com.alandwiprasetyo.quicksort;
+package com.alandwiprasetyo.sorting;
 
 /**
  * Created by alandwiprasetyo on 9/3/16.

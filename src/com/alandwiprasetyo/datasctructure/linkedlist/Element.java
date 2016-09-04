@@ -1,4 +1,4 @@
-package com.alandwiprasetyo.linkedlist;
+package com.alandwiprasetyo.datasctructure.linkedlist;
 
 /**
  * Created by alandwiprasetyo on 9/3/16.
